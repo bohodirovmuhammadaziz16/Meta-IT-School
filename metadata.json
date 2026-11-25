@@ -1,0 +1,6 @@
+{
+  "name": "Meta IT School",
+  "description": "Meta IT School o'quv markazi uchun ro'yxatdan o'tish platformasi hamda Admin, Ustoz va O'quvchi kabinetlari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
